@@ -438,7 +438,7 @@
         "uuid": "f54fcd56-b8e9-4960-8eea-98bac883bffe"
       }
     ],
-    "used_designators": "PRE\\-CHARGE1,AIR\\-1,AIR+1,D3,D5,#PWR16,#PWR23-33,TR1,U4-5",
+    "used_designators": "",
     "variants": []
   },
   "sheets": [
